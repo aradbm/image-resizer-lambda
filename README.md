@@ -1,4 +1,4 @@
-Taken from NikitaDev [video](https://www.youtube.com/watch?v=QFgJFoS_Hl0&ab_channel=NikitaDev).
+Credit to NikitaDev's [video](https://www.youtube.com/watch?v=QFgJFoS_Hl0&ab_channel=NikitaDev).
 
 # Image Resizer Lambda
 
